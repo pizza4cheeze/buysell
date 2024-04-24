@@ -4,7 +4,7 @@
     <title>Главная страница</title>
 </head>
 <body>
-    <h1>BySell</h1><hr>
+    <h1>BuySell</h1><hr>
     <h4>Инфа о товаре</h4>
     <b>Название: </b>${product.title}<br>
     <b>Описание: </b>${product.description}<br>

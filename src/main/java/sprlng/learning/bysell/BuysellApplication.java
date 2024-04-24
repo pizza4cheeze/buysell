@@ -8,10 +8,10 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @SpringBootApplication
 @EnableJpaRepositories
 @EnableTransactionManagement
-public class BysellApplication {
+public class BuysellApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BysellApplication.class, args);
+		SpringApplication.run(BuysellApplication.class, args);
 	}
 
 }

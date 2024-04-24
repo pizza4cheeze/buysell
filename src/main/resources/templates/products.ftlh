@@ -4,7 +4,7 @@
     <title>Главная страница</title>
 </head>
 <body>
-    <h1>BySell</h1><hr>
+    <h1>BuySell</h1><hr>
     <form action="/" method="post">
         Поиск по названию объявления: <input type="text" name="title"><br>
         <input type="submit" value="Поиск"/>
